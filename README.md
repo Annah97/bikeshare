@@ -7,10 +7,10 @@
 ## Date Created
 -10 December 2022
 
-##Project discription.
+## Project discription.
 Used Python to explore data related to bike share systems for three major cities in the United States that Chicago, New York City and Washington. Wrote python code to import the data and answer questions by computing descriptive statistics. The python script takes in raw input to create interactive user experience in the terminal. The project display data upon user request.
 
-##Installations
+## Installations
 install the following nessessary python packages:
 - Python 3
 - numpy
