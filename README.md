@@ -39,9 +39,9 @@ washington.csv
 
 ## How to run project
 - clone project to local repo:
-  git clone <repo_url>
+  - git clone <repo_url>
 
 - run script:
   - cd <into_project_repo>
-  -python3 bikeshare.py
+  - python3 bikeshare.py
 
